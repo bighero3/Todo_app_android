@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="no_date">Please select a date</string>
+    <string name="no_description">Please enter a description</string>
+    <string name="no_name">Please enter a name</string>
+</resources>
